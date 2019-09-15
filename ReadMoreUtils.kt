@@ -1,5 +1,3 @@
-package com.sungbin.reply.bot.utils
-
 import android.text.SpannableString
 import android.text.Spanned
 import android.text.TextPaint
